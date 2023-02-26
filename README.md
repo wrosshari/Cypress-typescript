@@ -19,4 +19,3 @@ open cypress dashboard
 npx cypress open
 ```
 
-### Thanks
